@@ -5,7 +5,7 @@
 
 🇧🇷 Programa automatizado para criação de painéis, com o objetivo de apresentar o desempenho do PMOC e outros Serviços, da empresa T.R. MARAZZATTO para indústrias como a Unilever e outras.
 
-
+<br/>
 
 #### [License: Apache License Version 2.0 or later](https://www.apache.org/licenses/)
 
